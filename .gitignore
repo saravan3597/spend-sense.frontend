@@ -1,3 +1,5 @@
 # Dependency directories and Cache
 node_modules/
 .angular
+dist
+.DS_Store
